@@ -6,15 +6,11 @@ In 1901, Julia Davis Chandler wrote in [The Boston Cooking School Magazine of Cu
 
 > For variety, some day try making little sandwiches, or bread fingers, of three very thin layers of bread and two of fill- ing, one of peanut; paste, whatever brand you prefer, and currant or crab-apple jelly for the other. _**The combination is delicious, and, so far as I know, original.**_  
 
+??[ear model](https://sketchfab.com/3d-models/ear-anatomy-468e2039bde34a3fabb9e90bff9cd56b)
 
 ## Ingredients
 
-![Sliced bread.](media/bread.jpg)
-
-["Sliced fresh bread"](https://foto.wuestenigel.com/sliced-fresh-bread/) by Marco Verch licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
-
-![Peanut butter](media/peanut_butter.jpg)
-
+![Sliced bread.](media/bread.jpg "[Sliced fresh bread](https://foto.wuestenigel.com/sliced-fresh-bread/) by Marco Verch licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)")![Peanut butter](media/peanut_butter.jpg)
 ["Peanut Butter"](https://www.flickr.com/photos/niaid/25419964715) by NIAID licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 ![Jars of jam.](media/jelly.jpg)
@@ -76,7 +72,7 @@ Popularity of various jellies and jelly alternatives:
 
 ## Assembly
 
-Video of Joy making a sandwich
+!?[Video of Joy making a sandwich](media/sandwich_creation.mp4)
 
 ## Consumption
 What are the instructions for eating a peanut butter and jelly sandwich?
@@ -111,15 +107,14 @@ while SANDWICH:
 
 What do you need to create traditional a peanut butter and jelly sandwich? Check all that apply.
 
-- Bread
-- Peanut Butter
-- Lettuce
-- Jelly
+[[X]] Bread
+[[X]] Peanut Butter
+[[ ]] Lettuce
+[[X]] Jelly
 
 Hint: You can choose more than one correct answer!
 
 ***
-
 Answer:
 
 A traditional PB&J needs peanut butter, jelly, and bread! Lettuce isn't a traditional component.
